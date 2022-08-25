@@ -1,0 +1,19 @@
+current directory: /home/dell/rails_projects/finance_app/fournisseur/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+/home/dell/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/dell/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220825-6712-rc3yfx.rb extconf.rb
+creating Makefile
+
+current directory: /home/dell/rails_projects/finance_app/fournisseur/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/dell/rails_projects/finance_app/fournisseur/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/dell/rails_projects/finance_app/fournisseur/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20220825-6712-a73ekj/byebug
